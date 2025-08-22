@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GarPaul
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on HTML and CSS challenges.
+- 👀 I’m interested in building Excel CRMs & dashboards.
+- 🌱 I’m currently working with Excel. 
+- 💞️ I’m looking to freelancing on Excel CRMs, data entry & Dashboards. 
 - 📫 How to reach me 
 On LinkedIn:https://www.linkedin.com/in/gar-paul
 
